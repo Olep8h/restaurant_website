@@ -23,7 +23,7 @@ const AboutUs = () => (
           <div className="app__aboutus-content_history">
               <h1 className="headtext__cormorant">Our History</h1>
               <img src={images.spoon} alt="about_spoon" className="spoon__img" />
-              <p className="p__opensans">My family started our career in the small Spanish province of Toledo, not far from Madrid. We have retained the Spanish flavor and passion, but now we have many restaurants throughout Europe. So you have the opportunity to enjoy our dishes not only in our homeland.</p>
+              <p className="p__opensans">The brand was  founded by my family members a long time ago in the small Spanish province of Toledo, not far from Madrid. We have retained the Spanish flavor and passion, but now we have many restaurants throughout Europe. So you have the opportunity to enjoy our dishes not only in our homeland.</p>
               <button type="button" className="custom__button">Know More</button>
           </div>
 
